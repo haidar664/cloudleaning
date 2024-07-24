@@ -1,0 +1,7 @@
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\learningapp.exe
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\appsettings.Development.json
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\appsettings.json
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\learningapp.dll
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\learningapp.deps.json
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\learningapp.runtimeconfig.json
+C:\haidar\AzureCourse\.netApp\learningapp\bin\publish\learningapp.pdb
